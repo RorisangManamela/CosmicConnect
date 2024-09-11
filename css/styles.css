@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(10, 12, 14);
+    color: white;
+    text-align: center;
+}
+
+header{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(135deg, rgb(126, 20, 126), rgb(81, 31, 122), rgb(98, 0, 255));
+    height: 50vh;
+}
+
+.header-text{
+    color: wheat;
+}
